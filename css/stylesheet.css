@@ -72,3 +72,12 @@ h3 {
 .projectcolum {
   margin-bottom: 5px;
 }
+
+.column p {
+  text-align: justify;
+  font-size: 18px;
+}
+
+.highlight {
+  background-color: yellow;
+}

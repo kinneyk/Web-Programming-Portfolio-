@@ -1,6 +1,6 @@
 img {
   width: 250px;
-  height: 250px;
+  height: 245px;
 }
 
 h3 {
@@ -20,5 +20,26 @@ h3 {
 }
 
 .column {
-  height: 250px; 
+  height: 250px;
+  margin: 1px;
+}
+
+.hd-purple {
+  background-color: #3c4262;
+  border: 3px solid white;
+  padding: 5px;
+  margin-left: -10px;
+  margin-right: -10px;
+  margin-top: 5px;
+  color: white
+}
+
+.hd-green {
+  background-color: #66cdaa;
+  border: 3px solid white;
+  padding: 5px;
+  margin-left: -10px;
+  margin-right: -10px;
+  margin-top: 5px;
+  color: white
 }

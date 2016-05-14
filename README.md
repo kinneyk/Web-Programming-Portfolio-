@@ -11,7 +11,8 @@ This is a webpage that showcases Kelsey's programming portfolio. This is designe
 ## Setup/Installation Requirements
 
 * Clone this repository
-* Open HTML file in web browser 
+* Open HTML file in web browser
+* Link to webpage: http://kinneyk.github.io/Web-Programming-Portfolio-/ 
 
 ## Known Bugs
 

@@ -1,7 +1,11 @@
-img {
-  width: 1000px;
+.img1 {
   height: 200px;
   margin-bottom: 10px;
+}
+
+.img2 {
+  float:left;
+  width: 40%;
 }
 
 h3 {
@@ -10,6 +14,10 @@ h3 {
 
 .floatleft {
   float: left;
+}
+
+.floatright {
+  float: right;
 }
 
 .bg-purple {
@@ -44,4 +52,8 @@ h3 {
   margin-right: -10px;
   margin-top: 5px;
   color: white
+}
+
+.project {
+  float:right;
 }

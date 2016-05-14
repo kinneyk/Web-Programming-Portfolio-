@@ -18,3 +18,7 @@ h3 {
 .bg-green {
   background-color: #cbffc0
 }
+
+.column {
+  height: 250px; 
+}
